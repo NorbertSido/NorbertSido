@@ -7,8 +7,8 @@
 
 <hr>
 
-<p>💻 I'm a frontend developer who is passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. </p>
-<p>When I'm not coding, you can find me on CodeWars geeking about the most performant competitive coding solutions.</p>
+<p>💻 I am a frontend developer who is very motivated to show his skills!</p>
+<p>When I'm not coding, I'm with my family or playing sports.</p>
 
 - 🔭 I’m currently looking for a work
 - 🌱 I’m currently learning PHP  & Angular Material
