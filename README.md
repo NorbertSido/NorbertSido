@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://norbertsido.github.io/MyPortfolio/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/norbertsido/">LinkedIn</a>
+  <a href="https://www.facebook.com/norbert.sido.9/">Facebook</a>
 </p>
 
 <hr>
