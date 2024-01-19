@@ -1,6 +1,6 @@
-<!-- 
-
--->
+<a href="https://komarev.com/ghpvc/?username=NorbertSido">
+  <img align="right" src="https://komarev.com/ghpvc/?username=NorbertSido&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 <!---------- Intro ----------> 
 <h3 align="center">Hello World, I'm Norbert Sidó!👋 </h3>
 
