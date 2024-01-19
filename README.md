@@ -2,18 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=NorbertSido&label=Profile%20views&color=0e75b6&style=flat" alt="Norbert Sido" />
 </p>
 
-<!---------- Intro ----------> 
-<h3 align="center">Hello World, I'm Norbert Sidó!👋 </h3>
+<h1 align="center">Hello World, I'm Norbert Sidó!👋 </h1>
+<h3 align="center">I am a frontend developer from <b>Budapest</b></h3>
 
-<p align="center"> 
-  <samp>
-    「 I am a frontend developer from <b>Budapest</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
-
-<p align="center">
+<div align="center">
   <a href="https://norbertsido.github.io/MyPortfolio/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="NorbertSido" />
   </a>
@@ -26,46 +18,56 @@
    <a href="https://github.com/NorbertSido?tab=repositories" target="_blank">
      <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
    </a>
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br>
+
+-  I'm a sporstman
+
+-  I'm a husband and father
+
+- 🔭 I’m currently looking for a work
+
+- 🌱 I’m currently learning PHP & Tailwind
+
+- 📫 How to reach me: sido.norbert93@gmail.com
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"><br>
+
+<h3 align="left">Languages and Tools:</h3>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,angular,react" />
+  </a>
 </p>
 
-<hr>
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,php" />
+  </a>
+</p>
 
-<!---------- About section ----------> 
-# About me
-<p>When I'm not coding, I'm with my family or playing sports.</p>
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+</p>
 
-🔭 &emsp; I’m currently looking for a work <br>
-🌱 &emsp; I’m currently learning PHP  & Angular Material & Tailwind <br>
-📫 &emsp; How to reach me: sido.norbert93@gmail.com
-<br>
-<br>
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>
+</p>
 
-**⚡Languages⚡** 
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" title="html"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" title="css"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" title="sass"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" title="javascript"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" title="typesrcipt"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" title="php"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb" title="mongodb"></code>
-<br>
-<br>
-
-**⚡Frameworks & Libraries⚡** 
-
-<code><img title="bootstrap" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" title="bootstrap"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node.js" title="node.js"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" title="angular"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" title="react"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="webpack" title="webpack"></code>
-<br>
-<br>
-
-**⚡Developer tools & Environment⚡** 
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" title="git"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" alt="vscode" title="vscode"></code>
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,webpack,jest,figma,vscode" />
+  </a>
+</p>
