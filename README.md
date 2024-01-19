@@ -1,18 +1,35 @@
+<!---------- Intro ----------> 
 <h3 align="center">Hello World, I'm Norbert Sidó!👋 </h3>
+
+<p align="center"> 
+  <samp>
+    「 I am a frontend developer from <b>Budapest</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
+
 <p align="center">
-  <a href="https://norbertsido.github.io/MyPortfolio/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/norbertsido/">LinkedIn</a> •
-  <a href="https://www.facebook.com/norbert.sido.9/">Facebook</a>
+  <a href="https://norbertsido.github.io/MyPortfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="NorbertSido" />
+  </a>
+  <a href="https://www.linkedin.com/in/norbertsido/" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="NorbertSido"/>
+  </a>
+  <a href="https://www.facebook.com/norbert.sido.9/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="NorbertSido"  />
+  </a>
 </p>
 
 <hr>
 
-<p>💻 I am a frontend developer who is very motivated to show his skills!</p>
+<!---------- About section ----------> 
+# About me
 <p>When I'm not coding, I'm with my family or playing sports.</p>
 
-- 🔭 I’m currently looking for a work
-- 🌱 I’m currently learning PHP  & Angular Material
-- 📫 How to reach me: sido.norbert93@gmail.com
+🔭 &emsp; I’m currently looking for a work <br>
+🌱 &emsp; I’m currently learning PHP  & Angular Material <br>
+📫 &emsp; How to reach me: sido.norbert93@gmail.com
 
 **⚡Languages and Tools:⚡** 
 
